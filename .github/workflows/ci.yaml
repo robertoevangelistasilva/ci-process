@@ -1,6 +1,6 @@
 name: ci-process-workflow
 on: 
-  pull-request:
+  pull_request:
     branches:
       - develop
 jobs:
